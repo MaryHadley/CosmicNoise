@@ -1,0 +1,5 @@
+ChiSquare  : 5155.70495782
+Parameter 0: 12.4174328291 Parameter Error: 0.00701076670754
+Parameter 1: -0.00349616447649 Parameter Error: 0.000124696442076
+Parameter 2: 11.5822077289 Parameter Error: 0.016160856425
+Parameter 3: -0.00349864278588 Parameter Error: 0.000287183018621
